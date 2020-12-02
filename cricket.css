@@ -1,0 +1,12 @@
+body{background-image: url("download (1).jpg");}
+h1{font-family:Forte;color:orange;text-align:center}
+h2{font-family:Forte;color:yellow;text-align:center}
+div{background-color:black;}
+img{size:30%}
+ul li{font-family:Forte;color:white;text-align:center;;text-transform:uppercase;}
+ul{display:flex}
+menu-bar{top:0;left:0;right:0;width:100%;position:fixed;background:black}
+ul li a{padding:1em;margin:0}
+ul li{list-style:none;}
+ul li a:hover{border-bottom:3px solid white;}
+p{display:flex}
